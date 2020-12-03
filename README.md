@@ -1,2 +1,2 @@
-# Banlyd_Pharmacy
+# Banlyd-Pharmacy
 A repository for a pharmacy management system
