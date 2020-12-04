@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE8126CD-A0B8-4725-BFF0-51B4325E3A78}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BanlydPharmacy</RootNamespace>
+    <AssemblyName>BanlydPharmacy</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>sign-emergency-code-sos_24_icon-icons.com_57215.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\portable-net40+sl4+win8+wp8\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.37.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.37\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Calculator.Designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplahScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SplahScreen.Designer.cs">
+      <DependentUpon>SplahScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Stock.Designer.cs">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Tools\ReportSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Tools\ReportSales.Designer.cs">
+      <DependentUpon>ReportSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Tools\ReportStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Tools\ReportStock.Designer.cs">
+      <DependentUpon>ReportStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Tools\ReportSuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Tools\ReportSuppliers.Designer.cs">
+      <DependentUpon>ReportSuppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\AddEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\AddorRemoveStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\AddorRemoveStock.Designer.cs">
+      <DependentUpon>AddorRemoveStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\AddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\AdjustItemName.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\AdjustItemName.Designer.cs">
+      <DependentUpon>AdjustItemName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\AdjustPrice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\AdjustPrice.Designer.cs">
+      <DependentUpon>AdjustPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ChangePassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ManageEmployer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ManageEmployer.Designer.cs">
+      <DependentUpon>ManageEmployer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ManageUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ManageUsers.Designer.cs">
+      <DependentUpon>ManageUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ModifyEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ModifyEmployee.Designer.cs">
+      <DependentUpon>ModifyEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\RecentUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\RecentUsers.Designer.cs">
+      <DependentUpon>RecentUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Standard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\Standard.Designer.cs">
+      <DependentUpon>Standard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\StockEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\StockEntry.Designer.cs">
+      <DependentUpon>StockEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\StockList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\StockList.Designer.cs">
+      <DependentUpon>StockList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplahScreen.resx">
+      <DependentUpon>SplahScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Stock.resx">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Tools\ReportSales.resx">
+      <DependentUpon>ReportSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Tools\ReportStock.resx">
+      <DependentUpon>ReportStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Tools\ReportSuppliers.resx">
+      <DependentUpon>ReportSuppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCLDR\DialySales.rdlc" />
+    <EmbeddedResource Include="UC\AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\AddorRemoveStock.resx">
+      <DependentUpon>AddorRemoveStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\AdjustItemName.resx">
+      <DependentUpon>AdjustItemName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\AdjustPrice.resx">
+      <DependentUpon>AdjustPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ManageEmployer.resx">
+      <DependentUpon>ManageEmployer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ManageUsers.resx">
+      <DependentUpon>ManageUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ModifyEmployee.resx">
+      <DependentUpon>ModifyEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\RecentUsers.resx">
+      <DependentUpon>RecentUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\Standard.resx">
+      <DependentUpon>Standard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\StockEntry.resx">
+      <DependentUpon>StockEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\StockList.resx">
+      <DependentUpon>StockList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2931143 - export share up upload.png" />
+    <None Include="Resources\2931168 - bin delete garbage remove trash.png" />
+    <None Include="Resources\2931190 - fit glass search view zoom.png" />
+    <None Include="Resources\2931176 - disk diskette drive floppy guardar save usb.png" />
+    <None Include="Resources\2931153 - clipboard clone copy duplicate multiply.png" />
+    <None Include="Resources\2931175 - agenda calendar calender date month schedule timetable.png" />
+    <None Include="Resources\2931181 - checklist lines list menu navigation.png" />
+    <None Include="Resources\2931181 - checklist lines list menu navigation1.png" />
+    <None Include="Resources\2931181 - checklist lines list menu navigation2.png" />
+    <None Include="Resources\3522149 - business coin finance financial.png" />
+    <None Include="Resources\4055373 - lamp on.png" />
+    <None Include="Resources\4055380 - business card.png" />
+    <None Include="Resources\close4.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\frac.png" />
+    <None Include="Resources\fraction.png" />
+    <None Include="Resources\max.png" />
+    <None Include="Resources\max4.png" />
+    <None Include="Resources\min.png" />
+    <None Include="Resources\perc.png" />
+    <None Include="Resources\res2.png" />
+    <None Include="Resources\ress.png" />
+    <None Include="Resources\square.png" />
+    <None Include="Resources\squared.png" />
+    <None Include="Resources\3319620 - coin dollar money shine.png" />
+    <None Include="Resources\3319616 - currency exchange money.png" />
+    <None Include="Resources\2931174 - analysis clipboard copy paste report statistics.png" />
+    <None Include="Resources\2931147 - account avatar face head human profile user.png" />
+    <None Include="Resources\OriginalLogo.png" />
+    <None Include="Resources\2931185 - door enter entrance exit leave logout out.png" />
+    <None Include="Resources\cogs-icon_34462.png" />
+    <None Include="Resources\exit_closethesession_close_6317%281%29.png" />
+    <None Include="Resources\boppiStudio.ico" />
+    <None Include="Resources\boppiStudio.png" />
+    <None Include="Resources\TranspLogo.png" />
+    <None Include="Resources\2931151 - bin close delete exit recycle remove x.png" />
+    <None Include="Resources\2931142 - delete minimize minus remove.png" />
+    <None Include="Resources\fract.png" />
+    <Content Include="sign-emergency-code-sos_24_icon-icons.com_57215.ico" />
+    <None Include="Resources\Undo_icon-icons.com_73701.png" />
+    <None Include="Resources\Redo_icon-icons.com_73698.png" />
+    <None Include="Resources\dreams.metroeve_unnamed-1.png" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\005_avatar_user_account_profile_man_guy_male-128.png" />
+    <None Include="Resources\06_Search Engine.png" />
+    <None Include="Resources\019_avatar_woman_girl_female_account_profile_user-128.png" />
+    <None Include="Resources\151.jpg" />
+    <None Include="Resources\2000px-Gtk-go-forward-ltr.svg.png" />
+    <None Include="Resources\2000px-Gtk-ok.svg.png" />
+    <None Include="Resources\5614_clinical-pharmacy-and-pharmacology.png" />
+    <None Include="Resources\1486348818-forward-arrows-arrow-front-go-blue_80478.png" />
+    <None Include="Resources\1486348819-back-backwards-repeat-arrows-arrow-blue_80473.png" />
+    <None Include="Resources\action_exit_close_remove_13915.png" />
+    <None Include="Resources\add_insert_new_17850.png" />
+    <None Include="Resources\addusergroup_1251.ico" />
+    <None Include="Resources\apps_printer_15747.png" />
+    <None Include="Resources\avatar5.png" />
+    <None Include="Resources\back-icon.png" />
+    <None Include="Resources\Bookmarks_Favorites_eye_vision_show_1764.png" />
+    <None Include="Resources\business_application_addmale_useradd_insert_add_user_client_2312.ico" />
+    <None Include="Resources\button_refresh_15001.png" />
+    <None Include="Resources\ClickHere_button.gif" />
+    <None Include="Resources\close_delete_delete_theaction_theoutput_10252.png" />
+    <None Include="Resources\customer_person_people_man_you_1625.png" />
+    <None Include="Resources\Cut_icon-icons.com_73697.png" />
+    <None Include="Resources\dillon-pharmacy2.png" />
+    <None Include="Resources\dollars_98561%281%29.png" />
+    <None Include="Resources\download %281%29.jpg" />
+    <None Include="Resources\download %281%29.png" />
+    <None Include="Resources\download.jpg" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\el.jpg" />
+    <None Include="Resources\el2.jpg" />
+    <None Include="Resources\engineer_person_man_2838.ico" />
+    <None Include="Resources\erase_delete_remove_wipe_out-512.png" />
+    <None Include="Resources\exit-symbol-1_icon-icons.com_70162.png" />
+    <None Include="Resources\freelogo1-notext.gif" />
+    <None Include="Resources\help_question_1566.png" />
+    <None Include="Resources\home_house_3526.png" />
+    <None Include="Resources\homealt_cas_12310.ico" />
+    <None Include="Resources\home-button.png" />
+    <None Include="Resources\ic_arrow_back_128_28226.png" />
+    <None Include="Resources\ic_arrow_forward_128_28222.png" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\images %281%29.png" />
+    <None Include="Resources\images %282%29.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\images_photos.jpg" />
+    <None Include="Resources\index.png" />
+    <None Include="Resources\information_info_1565.png" />
+    <None Include="Resources\keys_security_private_lock_1739.png" />
+    <None Include="Resources\leath.png" />
+    <None Include="Resources\lightbrown_library_folder_12274.ico" />
+    <None Include="Resources\lightbrown_library_folder_12274.png" />
+    <None Include="Resources\material-icon-2155442_960_720.png" />
+    <None Include="Resources\minimize_14775.png" />
+    <None Include="Resources\pen.png" />
+    <None Include="Resources\pharmacist-2551090_960_720.jpg" />
+    <None Include="Resources\pharmacist-helping-an-elderly-person-illustration_csp20040727.jpg" />
+    <None Include="Resources\Pill-bottle-spilling.jpg" />
+    <None Include="Resources\Recycle_Bin_icon-icons.com_55510.png" />
+    <None Include="Resources\recycle_recyclebin_full_delete_trash_1772.png" />
+    <None Include="Resources\refresh_40634.png" />
+    <None Include="Resources\save_21411.png" />
+    <None Include="Resources\select_icon-icons.com_48233.png" />
+    <None Include="Resources\shopping-basket-add256_24909%281%29.png" />
+    <None Include="Resources\shopping-basket-add256_24909.ico" />
+    <None Include="Resources\sign-delete-icon_34364.png" />
+    <None Include="Resources\sign-emergency-code-sos_24_icon-icons.com_57215.png" />
+    <None Include="Resources\signofhealth_medical_10742.ico" />
+    <None Include="Resources\sign-warning-icon_34355.png" />
+    <None Include="Resources\stocksnaps5wgvl18a9.jpg" />
+    <None Include="Resources\ST-TPF-1920x1080px-ad.jpg" />
+    <None Include="Resources\user_person_customer_man_1532%281%29.ico" />
+    <None Include="Resources\user-2-icon.png" />
+    <None Include="Resources\user-128_003.png" />
+    <None Include="Resources\user-128_005.png" />
+    <None Include="Resources\Very-Basic-Search-icon.png" />
+    <None Include="Resources\wp1931610.jpg" />
+    <None Include="Resources\wrench-screwdriver-icon_34325.png" />
+    <None Include="Resources\notepad.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,127 @@
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe.config
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.pdb
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csprojResolveAssemblyReference.cache
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Login_Form.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.MainForm.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.ManageEmployee.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Properties.Resources.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.AddEmployee_Form.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Sales.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Transactions.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UpdateEmployee_Form.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.User.resources
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.GenerateResource.cache
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.CoreCompileInputs.cache
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.exe
+D:\C# BackUp\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.pdb
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe.config
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.pdb
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.AddStock.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Login_Form.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.MainForm.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.ManageEmployee.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.RecentUsers.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Stock.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Suppliers.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportSales.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportStock.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportSuppliers.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Properties.Resources.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.AddEmployee_Form.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Sales.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Transactions.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UpdateEmployee_Form.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.User.resources
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.exe
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.pdb
+C:\Users\Isaac\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csprojAssemblyReference.cache
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Calculator.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Main.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Stock.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportSales.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportStock.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportSuppliers.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Properties.Resources.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Sales.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.User.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AddUser.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ChangePassword.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ManageUsers.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.RecentUsers.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.GenerateResource.cache
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\RdlCompile.cache
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\RdlCompile.compiled
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe.config
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.pdb
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\System.ValueTuple.xml
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.CopyComplete
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.exe
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.pdb
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.Login.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.SplashScreen.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.Profile.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.Standard.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.StockList.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csprojAssemblyReference.cache
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AddorRemoveStock.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AdjustItemName.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AdjustPrice.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.StockEntry.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Employee.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AddEmployee.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ManageEmployer.resources
+C:\Users\oppon\source\repos\BanlydPharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ModifyEmployee.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe.config
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.exe
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\BanlydPharmacy.pdb
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\bin\Debug\System.ValueTuple.xml
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csprojAssemblyReference.cache
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Calculator.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.SplashScreen.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Main.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Employee.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Stock.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportSales.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportStock.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Forms.Tools.ReportSuppliers.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Properties.Resources.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.Sales.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.User.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AddEmployee.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AddorRemoveStock.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AddUser.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AdjustItemName.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.AdjustPrice.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ChangePassword.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.Login.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ManageEmployer.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ManageUsers.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.ModifyEmployee.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.Profile.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.RecentUsers.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.Standard.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.StockEntry.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.UC.StockList.resources
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.GenerateResource.cache
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\RdlCompile.cache
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\RdlCompile.compiled
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.CoreCompileInputs.cache
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.csproj.CopyComplete
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.exe
+C:\Users\oppon\Source\Repos\oppongbaah\Banlyd-Pharmacy\BanlydPharmacy\obj\Debug\BanlydPharmacy.pdb
